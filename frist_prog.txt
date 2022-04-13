@@ -1,0 +1,8 @@
+frist_program
+{
+public static void main (string arg[])
+{
+system.out.print ("hii this is sujay and this is my frist practical:");
+
+}
+}
