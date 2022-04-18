@@ -1,0 +1,27 @@
+import.java.util.scanner;
+
+public class java program2A
+{
+public static void main (string args[]:)
+{
+int num1,num2,add,subtract,multiply,divide;
+
+scanner scanner=newscanner (system.in;)
+system.out.println("Enter two number")
+num1=scanner.nextln();
+num2=scanner.nextln();
+
+add=num1+num2;
+subtract=num1-num2;
+multiply=num1*num2;
+divide=num1/num2;
+
+system.out,println("sum="+add);
+system.out,println("subtract="+subtact);
+system,out,prinln("multiply="=multiply);
+system.out.println("divide="=divide);
+
+
+}
+
+}
